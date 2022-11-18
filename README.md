@@ -12,3 +12,8 @@ The main features of our project deal with the following:
 3.	A certain amount required access would be provided to the admin and student.
 4.	It would be an institution friendly reducing the unnecessary need for manual and time taking frameworks.
 5.	Notification generation like an alarm so that the students know what is happening or about to happen. 
+
+
+To run this project, just open XAMPP
+Turn on the Apache and MySQL servers
+Turn on localhost and type index.php
